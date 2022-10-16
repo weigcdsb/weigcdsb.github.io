@@ -14,4 +14,4 @@ nav_order: 5
 - **STAT 1000Q Introduction to Statistics** (2022 Fall), Teaching Assistant & Instructor for discussion session.
 
 ## Neuromatch Academy (NMA)
-- **Summer Schools in Computational Neuroscience** (2022 Summer), Project Teaching Assistant
+- **Summer School in Computational Neuroscience** (2022 Summer), Project Teaching Assistant
