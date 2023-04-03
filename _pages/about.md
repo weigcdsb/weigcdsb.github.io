@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey, this is Ganchao Wei (魏赣超 in Chinese), a **multi-chain** random walker. Among them, the trace for "academic chain" is **biological science** &rarr; **biostatistics** &rarr; **statistics** + **[computational neuroscience](https://stevenson.lab.uconn.edu/)** &rarr; ...
+Hey, this is Ganchao Wei (魏赣超 in Chinese), a multi-chain random walker. Among them, the trace for "academic chain" is **biological science** &rarr; **biostatistics** &rarr; **statistics** + **[computational neuroscience](https://stevenson.lab.uconn.edu/)** &rarr; ...
 
 **Contact:** weiganchao [at] gmail [dot] com
  
