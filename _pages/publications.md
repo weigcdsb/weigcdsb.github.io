@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 ## 2023
-**Wei G**, **Stevenson IH**, **Wang X**. Bayesian Clustering of Neural Spiking Activity Using a Mixture of Dynamic Poisson Factor Analyzers. 2023. **(preliminary version published in [NeurIPS'22](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7b39f4512a2e3899edcc59c7501f3cd4-Abstract-Conference.html))** **[preprint](https://arxiv.org/abs/2205.10639)**, **[code](https://github.com/weigcdsb/MFM_DPFA_clean)**
+**Wei G**, **Stevenson IH**, **Wang X**. A Flexible Bayesian Clustering of Dynamic Subpopulations in Neural Spiking Activity. 2023. **(preliminary version published in [NeurIPS'22](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7b39f4512a2e3899edcc59c7501f3cd4-Abstract-Conference.html))** **[preprint](https://arxiv.org/abs/2205.10639)**, **[code](https://github.com/weigcdsb/MFM_DPFA_clean)**
 
 **Wei G**, **Stevenson IH**. Dynamic modeling of spike count data with Conway-Maxwell Poisson variability. 2023. **(accepted by Neural Computation)** **[preprint](https://arxiv.org/abs/2205.00507)**, **[code](https://github.com/weigcdsb/COM_POISSON)**
 
