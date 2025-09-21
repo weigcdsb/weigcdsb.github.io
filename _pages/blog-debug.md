@@ -1,12 +1,13 @@
 ---
-layout: page
-title: Blog debug
+layout: blog
+title: Blog-debug
 permalink: /blog-debug/
-nav: false
+nav: true
 ---
-Total posts seen by Jekyll: {{ site.posts | size }}
+
+<h2>Posts ({{ site.posts | size }})</h2>
 <ul>
-{% for p in site.posts %}
-<li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> — {{ p.date | date: "%F" }}</li>
+{% for post in site.posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%Y-%m-%d" }}</li>
 {% endfor %}
 </ul>
