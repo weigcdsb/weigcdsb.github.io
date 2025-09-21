@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Blog-debug
 permalink: /blog-debug/
 nav: true
