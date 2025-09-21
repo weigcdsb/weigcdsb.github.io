@@ -190,6 +190,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  posts:
+    output: true
   news:
     defaults:
       layout: post
@@ -270,9 +272,8 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-paginate: 10
-paginate_path: "/blog/page:num/"
-future: true
+
+# future: true
 
 # Sitemap settings
 defaults:
