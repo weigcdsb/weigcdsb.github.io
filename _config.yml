@@ -257,7 +257,6 @@ plugins:
   - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
