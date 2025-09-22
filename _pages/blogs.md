@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog-debug
-permalink: /blog-debug/
+title: Blogs
+permalink: /blogs/
 nav: true
 ---
 
