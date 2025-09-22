@@ -17,6 +17,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey, this is Ganchao Wei (魏赣超 in Chinese), a postdoctoral statistician/ ML researcher working at [Duke (stats -> neuro)](https://scholars.duke.edu/person/ganchao.wei).Previously played a lot with Bayesian and computational neuro stuff (still ongoing), recently also enjoyed playing around with diffusion stuff (see my recent readings & thoughts in [post](https://weigcdsb.github.io/blog/)).
+
+Hey, this is Ganchao Wei (魏赣超 in Chinese), a postdoctoral statistician/ML researcher working at [Duke (stats -> neuro)](https://scholars.duke.edu/person/ganchao.wei). Previously played a lot with Bayesian and computational neuro stuff (still at it), but recently diving into deep generative models, especially diffusion stuff, brings me a lot of joy. Check out my blogs for latest reads and random thoughts. Keep exploring, yay!
+
 
 **Contact:** weiganchao [at] gmail [dot] com
