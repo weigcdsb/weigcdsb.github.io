@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, this is Ganchao Wei (魏赣超 in Chinese), a postdoctoral statistician/ML researcher working at [Duke (stats -> neuro)](https://scholars.duke.edu/person/ganchao.wei). Previously played a lot with Bayesian and computational neuro stuff (still at it), but recently diving into deep generative models, especially diffusion stuff, brings me a lot of joy.
-
+Hey, this is Ganchao Wei (魏赣超 in Chinese), a stats/ ML/ AI player in [Durham, NC](https://scholars.duke.edu/person/ganchao.wei), mainly motivated by and applied to neuroscience. I used to work more on Bayesian and latent variable models for spatiotemporal data, and recently I’ve been into deep generative models diffusion (diffusion-/ flow-based) and causal stuff like causal representation learning.
 
 **Contact:** weiganchao [at] gmail [dot] com
