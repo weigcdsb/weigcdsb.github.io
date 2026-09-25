@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, this is Ganchao Wei (魏赣超 in Chinese), a stats / ML player in
+Hey, this is Ganchao Wei (魏赣超 in Chinese), a stats / ML player (or AI, if you want) in
 [New York, NY](https://www.simonsfoundation.org/flatiron/), mostly motivated by
 problems in biological science, especially neuroscience.
 
