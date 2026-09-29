@@ -34,7 +34,8 @@ and causal stuff.
   Ganchao Wei and John Pearson. [*Flow Matching for Count Data*](https://arxiv.org/abs/2605.07746). *NeurIPS*, 2026.
 
 - **Finite-time stochastic transitions for one- / few-step count generation.**  
-  Ganchao Wei. [*Stochastic Flow Map for Count Data*](https://arxiv.org/abs/2609.23290). *arXiv preprint arXiv:2609.23290*, 2026. [in submission]
+  Ganchao Wei. [*Stochastic Flow Map for Count Data*](https://arxiv.org/abs/2609.23290). *arXiv preprint arXiv:2609.23290*, 2026. [in submission]  
+  (A preliminary version has been accepted to the [BeNTo Workshop at NeurIPS 2026](https://bento-neurips.github.io/).)
 
 ### For time series
 
