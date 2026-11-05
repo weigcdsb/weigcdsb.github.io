@@ -13,9 +13,9 @@ profile:
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hey, this is Ganchao Wei (魏赣超 in Chinese), a stats / ML player (or AI, if you want) in
@@ -28,19 +28,19 @@ I used to play more with Bayesian and state-space models, and recently I've also
 ### For count data
 
 - **Flow matching directly on count space.**  
-  Ganchao Wei and John Pearson. [*Flow Matching for Count Data*](https://arxiv.org/abs/2605.07746). *NeurIPS*, 2026.
+  Ganchao Wei and John Pearson. [_Flow Matching for Count Data_](https://arxiv.org/abs/2605.07746). _NeurIPS_, 2026.
 
 - **Finite-time stochastic transitions for one- / few-step count generation.**  
-  Ganchao Wei. [*Stochastic Flow Map for Count Data*](https://arxiv.org/abs/2609.23290). *arXiv preprint arXiv:2609.23290*, 2026. [in submission]  
+  Ganchao Wei. [_Stochastic Flow Map for Count Data_](https://arxiv.org/abs/2609.23290). _arXiv preprint arXiv:2609.23290_, 2026. [in submission]  
   (A preliminary version has been accepted to the [BeNTo Workshop at NeurIPS 2026](https://bento-neurips.github.io/) as oral)
 
 ### For time series
 
 - **GP stochastic paths for flow matching with correlated / time-series data.**  
-  Ganchao Wei and Li Ma. [*Stream-level Flow Matching with Gaussian Processes*](https://openreview.net/forum?id=qg9p1I5lmp). *ICML*, 2025.
+  Ganchao Wei and Li Ma. [_Stream-level Flow Matching with Gaussian Processes_](https://openreview.net/forum?id=qg9p1I5lmp). _ICML_, 2025.
 
 - **Flexible low-D dynamics, with applications to neuroscience.**  
-  Ganchao Wei, Daniela de Albuquerque, Miles Martinez, Shiyang Pan, and John Pearson. [*Dynamic Compression Flows for Neuroscience Data*](https://openreview.net/forum?id=Y86LpaxXz4). *ICML*, 2026.
+  Ganchao Wei, Daniela de Albuquerque, Miles Martinez, Shiyang Pan, and John Pearson. [_Dynamic Compression Flows for Neuroscience Data_](https://openreview.net/forum?id=Y86LpaxXz4). _ICML_, 2026.
 
 ---
 
