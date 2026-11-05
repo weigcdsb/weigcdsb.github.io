@@ -19,12 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey, this is Ganchao Wei (魏赣超 in Chinese), a stats / ML player (or AI, if you want) in
-[New York, NY](https://www.simonsfoundation.org/flatiron/), mostly motivated by
-problems in biological science, especially neuroscience.
+[New York, NY](https://www.simonsfoundation.org/flatiron/) and a science lover (currently inspired by structural biology, neuroscience, astrophysics, etc.).
 
-I used to play more with Bayesian and latent variable models for spatiotemporal
-data, and recently I've been into deep generative models (diffusion- / flow-based)
-and causal stuff.
+I used to play more with Bayesian and state-space models, and recently I've also been into deep generative models (diffusion- / flow-based), causal representation learning, and other ML ideas for scientific problems.
 
 ## Some recent ideas on flow stuff
 
@@ -44,12 +41,6 @@ and causal stuff.
 
 - **Flexible low-D dynamics, with applications to neuroscience.**  
   Ganchao Wei, Daniela de Albuquerque, Miles Martinez, Shiyang Pan, and John Pearson. [*Dynamic Compression Flows for Neuroscience Data*](https://openreview.net/forum?id=Y86LpaxXz4). *ICML*, 2026.
-
-### For causal discovery / representation learning
-
-- **Using diffusion / flow models to sample causal graphs, for high-D graphs, uncertainty, Markov equivalence classes, etc.**
-
-  Coming soon... hopefully 😅
 
 ---
 
